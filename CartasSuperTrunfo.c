@@ -15,7 +15,7 @@ float area1, area2;
 
 int main() {
 
-//Output Carta 2 
+//Input Carta 2 
 
     printf("Insira a seguir as imformacoes da Carta 1 \n");
     printf("Digite o nome do estado: ");
